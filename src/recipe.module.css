@@ -13,4 +13,10 @@
 .image{
     border-radius: 50%;
     width: 100px;
+    padding: 20px;
 }
+.left {
+    padding: 20px;
+    align-items: left;
+    flex-wrap: wrap;
+  }
